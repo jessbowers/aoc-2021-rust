@@ -1,5 +1,5 @@
-mod solution1;
-use solution1::process_input;
+mod solutions;
+use solutions::process_input;
 use std::fs::File;
 use std::io::prelude::*;
 
