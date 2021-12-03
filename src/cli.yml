@@ -1,0 +1,11 @@
+name: aoc
+version: "2021.0"
+author: Jess Bowers
+about: Advent of Code in Rust
+args:
+    - input:
+        short: i
+        long: input
+        help: Sets the input file to use
+        required: false
+        takes_value: true
