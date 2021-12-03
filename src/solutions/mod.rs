@@ -1,2 +1,2 @@
-mod solution1;
-pub use solution1::process_input;
+mod solution02;
+pub use solution02::process_input;
